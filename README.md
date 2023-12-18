@@ -1,1 +1,1 @@
-# UDP_Server
+A simple UDP server using Python sockets.
